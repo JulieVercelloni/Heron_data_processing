@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Ruserdata
+# folders
+data/
+.Rproj.user
